@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "section_conjecture",
+  "generated_utc": "2026-03-13T17:47:52Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8032128514056224,
+    "kappa_section": 1.0937930000000002,
+    "rho_rigidity": 1.078,
+    "section_transfer": 1.030627,
+    "sigma_fundamental": 1.0739999999999998
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.054
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}

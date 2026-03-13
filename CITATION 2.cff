@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "The Section Conjecture via Section-Packet Persistence"
+message: "If you use this repository, cite the Canonical Lane manuscript and metadata file."
+type: software
+authors:
+  - family-names: HautevilleHouse
+    given-names: HautevilleHouse
+abstract: "Canonical Lane theorem package for The Section Conjecture via Section-Packet Persistence on the manifold-constrained local-to-global architecture."
+repository-code: https://github.com/HautevilleHouse/section-conjecture-canonical-lane
+license: MIT

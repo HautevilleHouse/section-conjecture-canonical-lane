@@ -1,0 +1,21 @@
+title: "The Section Conjecture via Section-Packet Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/section-conjecture-canonical-lane"
+url: "https://github.com/HautevilleHouse/section-conjecture-canonical-lane"
+license: None
+keywords:
+  - anabelian-geometry
+  - arithmetic-geometry
+  - etale-fundamental-group
+  - galois-sections
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "The Section Conjecture via Section-Packet Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05

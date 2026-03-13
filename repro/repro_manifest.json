@@ -1,0 +1,113 @@
+{
+  "schema_version": "2026-03-05",
+  "generated_utc": "2026-03-13T17:47:53Z",
+  "lane": "manifold_constrained",
+  "baseline_certificate_path": "repro/certificate_baseline.json",
+  "runtime_certificate_path": "repro/certificate_runtime.json",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "17b3ec313cff0aab7cd4f710febedd1c0a38212cff8537a0996f508a3b65d34f"
+    },
+    {
+      "path": "README.md",
+      "sha256": "046d9c34fcbb9005c8aa440191e8c6cad0762569bd993c60a6841bd5e225f85d"
+    },
+    {
+      "path": "artifacts/constants_extracted.json",
+      "sha256": "5862c7144adbabdf7af5dce7d0e704baa836c014457295f2056723ba1b29bdb6"
+    },
+    {
+      "path": "artifacts/constants_extraction_inputs.json",
+      "sha256": "24731ef7f4ebc8d1245082743903be574d4bc80ff7cefeeba8d046f96f38424d"
+    },
+    {
+      "path": "artifacts/constants_registry.json",
+      "sha256": "e813b26fc0aead38d0a79af8b632878ee71c233bbd492492efc0d9c3741386d9"
+    },
+    {
+      "path": "artifacts/promotion_report.json",
+      "sha256": "2ce24104d7e885411d5c71d6a5d878b210b41a688e17645b589b1e317242076c"
+    },
+    {
+      "path": "artifacts/stitch_constants.json",
+      "sha256": "0d9b809f68691bd4b5df4cce452cffd36a80e1bab199d45c751ad76993d82e8d"
+    },
+    {
+      "path": "notes/EG1_public.md",
+      "sha256": "fe54ef76cadc99f83b73b187e1aaa40a1775c3184d570b5efb29288e48b7350b"
+    },
+    {
+      "path": "notes/EG2_public.md",
+      "sha256": "8e01759221dfc8e5362e2900c4f54b2178a28fe82e1ad037a5340539a2230a28"
+    },
+    {
+      "path": "notes/EG3_public.md",
+      "sha256": "92fa476fc03545a5a03ec99a018c3538c9e7aaf585bfa826085121f0bb5fa0df"
+    },
+    {
+      "path": "notes/EG4_public.md",
+      "sha256": "52e11561a846566e19f7628f3645eedf5acfae6394e70d0bb1f709b799c7e0ba"
+    },
+    {
+      "path": "notes/IDENTIFICATION_BRIDGE.md",
+      "sha256": "f372542dcb0c00d7a87ba89b1c16dde8f19c39fd531f45d7271f300e075229fa"
+    },
+    {
+      "path": "notes/GEOMETRIC_GALOIS_BRIDGE.md",
+      "sha256": "8b3a0a33803c36d43616009b56453718e83bb428251a6d02ff8d4215bed6e351"
+    },
+    {
+      "path": "paper/CANONICAL_ROUTING_INDEX.md",
+      "sha256": "e2f26fdf772b0061e81903ad167a6b173af1ad253966316c7b76b2ba59ef3dcc"
+    },
+    {
+      "path": "paper/EXTRACTION_SPEC.md",
+      "sha256": "e4fd4a071bd3ee4a93c0d56a17c237c46e6d6e7cb1a36e4d4701e5aac9519f70"
+    },
+    {
+      "path": "paper/SECTION_CONJECTURE_PREPRINT.md",
+      "sha256": "a13b9f21a4469aa2290603d31419d968b159c12d2a9dc8895d400cfb24cf4d73"
+    },
+    {
+      "path": "repro/REPRO_PACK.md",
+      "sha256": "9b9a8359ff718edc68318a205857e788da438d88f3874068642dd984a16ef5ae"
+    },
+    {
+      "path": "repro/THIRD_PARTY_RERUN_PROTOCOL.md",
+      "sha256": "8aab607d7f7a536eda8407c8703030d8fd22a4978d398f5c6c4c78d0eed50163"
+    },
+    {
+      "path": "repro/certificate_baseline.json",
+      "sha256": "d06e5eb703eed98757e98260f72dde52de5b0ea0e7e8264feb62f46bd5b41110"
+    },
+    {
+      "path": "repro/run_repro.sh",
+      "sha256": "37b5ca47b3001b7f1cd2d6f632df5dee106cd3432c0625472d6dd5ae0f408acf"
+    },
+    {
+      "path": "scripts/extract_constants.py",
+      "sha256": "61775512903af1abf2a430f74f06797352ca655833bd69fe66b2d89b8c261b6e"
+    },
+    {
+      "path": "scripts/promote_constants.py",
+      "sha256": "c13fe0f68b0737a319c9feff0e196108b9a49d8acc5ad817f8ae62597c8bc13c"
+    },
+    {
+      "path": "scripts/release_gate.py",
+      "sha256": "5c9760aeddbfa0e4b5a9447e1bda670004391c19470f9b1cf8897bf154f667b8"
+    },
+    {
+      "path": "scripts/update_manifest.py",
+      "sha256": "6cee83954c38d792f86564334a5e93750a9842afe569fb4685a3f47def392352"
+    },
+    {
+      "path": "scripts/sc_closure_guard.py",
+      "sha256": "bee58088bec301628ff7d9c5558ba3df115f6534b22e1d5aa536f878bbc603a2"
+    },
+    {
+      "path": "scripts/README.md",
+      "sha256": "b8e4f4c51314b392f560b1f555fa785c772dab8897381fcf00875514306b658c"
+    }
+  ]
+}
